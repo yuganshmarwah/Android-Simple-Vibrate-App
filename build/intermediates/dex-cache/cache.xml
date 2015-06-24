@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\sir project\Vibrate\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\sir project\Vibrate\app\build\intermediates\pre-dexed\debug\classes-8c4beb2ee23bbe9cd6c10e4af3bc9d4effa2d155.jar" />
+    </item>
+    <item
+        jar="C:\sir project\Vibrate\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\sir project\Vibrate\app\build\intermediates\pre-dexed\debug\classes-df52f19d35a2545be9c14983762e36993018ffe8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yashveer Singh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\sir project\Vibrate\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-2e1f8e27e967d14ec3efcfb927e1789547649537.jar" />
+    </item>
+    <item
+        jar="C:\sir project\Vibrate\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\sir project\Vibrate\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-74645e5f24ab40fc5c60af1c314d27b36cfd2871.jar" />
+    </item>
+
+</items>
